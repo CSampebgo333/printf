@@ -1,4 +1,4 @@
-#This is the description of our printf project. @Clement and Emmanuel
+#This is the description of our printf project. @Clement and @Emmanuel
 
 Task_0: Write a function that produces output according to a format.
 Prototype: int _printf(const char *format, ...);
